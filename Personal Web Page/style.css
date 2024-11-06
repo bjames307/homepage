@@ -1,0 +1,17 @@
+.greeting-container {
+    text-align: center;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    border: 5px solid color(gray);
+    margin-top: 20px;
+  }
+
+body{
+    background-image: url(./Assets/background.jpg);
+    background-size: cover;
+    color: aliceblue;
+  }
+
+  .outercontain {
+    align="center"
+  }
